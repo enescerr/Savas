@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savas.Desktop", "Savas.Desktop\Savas.Desktop.csproj", "{23A31A1F-ACC0-486D-BF9A-50D5BF9A3861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savas.Library", "Savas.Library\Savas.Library.csproj", "{2EC88324-8B41-41E0-B78B-6479CBCDCC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23A31A1F-ACC0-486D-BF9A-50D5BF9A3861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A31A1F-ACC0-486D-BF9A-50D5BF9A3861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A31A1F-ACC0-486D-BF9A-50D5BF9A3861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A31A1F-ACC0-486D-BF9A-50D5BF9A3861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC88324-8B41-41E0-B78B-6479CBCDCC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC88324-8B41-41E0-B78B-6479CBCDCC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC88324-8B41-41E0-B78B-6479CBCDCC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC88324-8B41-41E0-B78B-6479CBCDCC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7FCB0D-55DD-45BD-9E77-2E1F0B7F097A}
+	EndGlobalSection
+EndGlobal
